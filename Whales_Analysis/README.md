@@ -28,7 +28,7 @@ pip install pathlib
 pip install jupyter lab
 
 Installation Dependancies:
-![](Whales_Analysis/Screenshots/installation.png)
+![text](Whales_Analysis/Screenshots/installation.png)
 
 ## Usage 
 
@@ -37,9 +37,9 @@ As a user, I want to recieve analytics on funds' risk/reward based on the NAV cs
 The application will be able to provide the user with analytics, including visualization.  
 
 Below is an example of what the analysis will look like for the user:
-![](Whales_Analysis/Screenshots/Visualization.png)
+![text](Whales_Analysis/Screenshots/Visualization.png)
 
-![](Whales_Analysis/Screenshots/Visualization2.png)
+![text](Whales_Analysis/Screenshots/Visualization2.png)
 
 ## Contributers
 
